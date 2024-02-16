@@ -6,8 +6,8 @@ from drf_yasg import openapi
 
 schema_view = get_schema_view(
     openapi.Info(
-        title='SimpleCRM API',
-        description='API for project SimpleCRM',
+        title='ffmpeg_api',
+        description='ffmpeg_api',
         default_version='v1',
     ),
     public=True,
